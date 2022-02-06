@@ -13,16 +13,18 @@ To write a program to find the exponentiation of a number.
 
 ## Program:
 ```
-/*
-Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
-*/
+a=int(input())
+b=int(input())
+print("Exponentiation of a given number:",a**b)
 ```
 
-## Output:
+## Sample Output:
+
 ![exponentiation of a number](expo.png)
 
+## Output:
+
+![exponentiation of a number](1.png)
 
 ## Result:
 Thus the program to find the exponentiation of a given number is written and verified using python programming.
